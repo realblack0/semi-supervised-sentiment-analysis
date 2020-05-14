@@ -118,6 +118,10 @@ pmi.plot()
 
 - predict : 감성 사전을 기반으로 학습 데이터의 감성을 예측한다.
 
+## 샘플 코드
+
+[sample notebook 바로가기](https://github.com/realblack0/semi-supervised-sentiment-analysis/blob/master/sample/\(sample\)%ED%98%95%ED%83%9C%EC%86%8C%20%EB%B6%84%EC%84%9D.ipynb)
+
 ## 의존 패키지
 
 >- pandas 1.03
